@@ -1,0 +1,28 @@
+waitUntil { alive player };
+//BZ Intro Script
+sleep 50;
+cutText ["", "PLAIN DOWN"];
+sleep 5;
+cutText ["Welcome to BloodZoggerZ Overpoch", "PLAIN DOWN"];
+sleep 5;
+cutText ["NEW: TS3 and Homepage ", "PLAIN DOWN"];
+sleep 5;
+cutText ["NEW: TS 212.224.102.116:10057 - www.BloodZoggerZ.de.vu", "PLAIN DOWN"];
+sleep 5;
+cutText ["NEW: Custom  Debug!( scripts,Wetter and more )", "PLAIN DOWN"];
+sleep 5;
+cutText ["Server IP: 212.129.63.211:2302", "PLAIN DOWN"];
+sleep 5;
+cutText ["Donation Loadout starting at 5.00 Euro  Monthly", "PLAIN DOWN"];
+sleep 5;
+cutText ["For more information for Donation go on our TS ", "PLAIN DOWN"];
+sleep 5;
+cutText ["or write a Mail to BloodZoggerZ.de.vu", "PLAIN DOWN"];
+sleep 5;
+cutText ["Admins : Ralf & Exodus", "PLAIN DOWN"];
+sleep 5;
+cutText ["Moderators : Memati & Don Tim Play Support", "PLAIN DOWN"];
+sleep 5;
+cutText ["We wish you a lot of Fun on our Server", "PLAIN DOWN"];
+sleep 5;
+	};
